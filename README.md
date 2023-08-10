@@ -2,6 +2,6 @@
 
 ### Hi there,
  
-I'm a computer engineering student whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies. 
+I'm a software craftsman whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies. 
 
 I’m a free software enthusiast (as per Free Software Foundation definition of “free”).
